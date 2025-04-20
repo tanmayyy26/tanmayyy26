@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanmay Wagh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="codind" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayyy26&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayyy26" /> </p>
 
 - 🔭 I’m currently working on **coding language**
