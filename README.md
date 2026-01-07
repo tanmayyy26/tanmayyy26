@@ -1,18 +1,64 @@
-<h1 align="center">Hi 👋, I'm Tanmay Wagh</h1>
-<h3 align="center">Building high-performance, responsive web experiences with clean code and modern design.</h3>
-<img align="right" alt="codind" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f43,50:22c55e,75:facc15,100:2e8b57&height=230&section=header&text=Tanmay%20Wagh&fontSize=44&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descAlignY=56&animation=fadeIn&fontColor=ffffff"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayyy26&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayyy26" /> </p>
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+(Node.js,+React);JavaScript+%26+TypeScript;Building+Scalable+Web+Applications"/> 
+</div>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-blond-pi-78.vercel.app/](https://portfolio-blond-pi-78.vercel.app/)
+<div align="center">
+  🎓 B.Tech CSE @ Government College of Engineering, Nagpur<br/>
+  🚀 Passionate about Web Development & Problem Solving
+</div>
 
-- 💬 Ask me about **React, Vue, GSAP, and UI/UX animations.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/tanmay-wagh-446141345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/tanmay-wagh-446141345" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.leetcode.com/tanmaywagh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/tanmaywagh26" height="30" width="40" /></a>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🌿 About Me</h3>
+      Hi 👋, I'm <b>Tanmay Wagh</b>.
+      <br/><br/>
+      I am a passionate developer focused on the <b>MERN Stack</b>. I love building scalable web applications and solving complex problems using <b>Data Structures & Algorithms</b>.
+      <br/><br/>
+      👨‍💻 All of my projects are available at <a href="https://portfolio-blond-pi-78.vercel.app/" target="_blank"><b>My Portfolio</b></a>
+      <br/>
+      <br/>
+      💬 Ask me about <b>React, Node.js, and JavaScript</b>
+    </td>
+    <td width="35%" valign="center">
+      <img width="100%" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
+
+<div align="center">
+  <h3>🧠 Tech Stack & Skills</h3>
+  
+  <b>🚀 Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,c&theme=dark"/>
+  <br/><br/>
+  
+  <b>🎨 Frontend & Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,sass,bootstrap&theme=dark"/>
+  <br/><br/>
+  
+  <b>🛠 Tools & Platforms</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark"/>
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
+
+<h3>🌐 Connect With Me</h3>
+<p align="center"> 
+  <a href="https://linkedin.com/in/tanmay-wagh-446141345"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://www.leetcode.com/tanmaywagh26"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> 
+  <a href="https://instagram.com/tanmaywagh_26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:facc15,100:16a34a&height=120&section=footer"/>
+</div>
